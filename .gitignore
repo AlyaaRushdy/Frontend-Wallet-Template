@@ -5,4 +5,4 @@
 .vscode
 *.txt
 /Starter
-/node_modules
+/node_modules/
