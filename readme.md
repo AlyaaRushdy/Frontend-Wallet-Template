@@ -1,6 +1,6 @@
 This is an implementation of selected parts of the [Wallet](https://demo.themefisher.com/wallet-bootstrap/) templete by themefisher
 
-<!-- ## Screenshot
+## Screenshot
 
 <table>
  <tr>
@@ -15,18 +15,13 @@ This is an implementation of selected parts of the [Wallet](https://demo.themefi
 
 ## Links
 
-- Live Site URL: [Netlify](https://stratbootstrap-creativetemplate-alyaa.netlify.app/) -->
+- Live Site URL: [Netlify](https://wallet-template-imp.netlify.app) -->
 
-<!-- ## Built with
+## Built with
 
 - Semantic HTML5 markup
 - Bootstrap
-- Animate
-- CSS custom properties
-- Vanilla JavaScript
-- Flexbox
-- CSS Grid
-- Media Queries -->
+- fontawesome
 
 ## Author
 
