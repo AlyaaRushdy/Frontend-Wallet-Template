@@ -1,6 +1,12 @@
 body {
   font-family: "Red Hat Display", sans-serif !important;
 }
+.text-indigo {
+  color: #6610f2;
+}
+.bg-indigo-subtle {
+  background-color: #6710f23a;
+}
 .footer-icon {
   width: 40px;
   height: 40px;
