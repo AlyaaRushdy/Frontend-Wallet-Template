@@ -15,7 +15,7 @@ This is an implementation of selected parts of the [Wallet](https://demo.themefi
 
 ## Links
 
-- Live Site URL: [Netlify](https://wallet-template-imp.netlify.app) -->
+- Live Site URL: [Netlify](https://wallet-template-implementation.netlify.app/)
 
 ## Built with
 
