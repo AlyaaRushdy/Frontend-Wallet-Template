@@ -4,8 +4,8 @@ This is an implementation of selected parts of the [Wallet](https://demo.themefi
 
 <table>
  <tr>
-    <th width="70%">Desktop</th>
-    <th width="30%" >| Mobile</th>
+    <th width="75%">Desktop</th>
+    <th width="25%" >| Mobile</th>
   </tr>
   <tr>
     <td><img src="./screenshots/desktop.png"></td>
